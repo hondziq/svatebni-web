@@ -76,7 +76,7 @@ ul {
   box-shadow: 0 0 5px var(--cl-shadow);
   padding: 1.5rem;
   margin: 1.5rem auto;
-  background-color: rgba(255, 204, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .program {
