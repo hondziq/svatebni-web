@@ -35,6 +35,22 @@ header {
   top: 0;
 }
 
+#logo {
+  font-family: "Style Script", cursive;
+  color: var(--cl-secondary);
+  position: absolute;
+  left: 0;
+  font-weight: normal;
+}
+
+#logo:hover {
+  border: 0;
+}
+
+small {
+  color: black;
+}
+
 /* RESPONSIVE */
 
 @media screen and (min-width: 576px) {
