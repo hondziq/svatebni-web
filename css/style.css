@@ -105,6 +105,10 @@ ul {
   height: 100% !important;
 }
 
+#info {
+  background-image: url(/img/bg-info.jpg);
+}
+
 /* RESPONSIVE */
 
 @media screen and (min-width: 810px) {
