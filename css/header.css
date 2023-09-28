@@ -36,7 +36,7 @@ header {
 }
 
 #logo {
-  font-family: "Style Script", cursive;
+  font-family: "Style Script", cursive; /* na mobilu to asi nikdo nepřečte */
   color: var(--cl-secondary);
   position: absolute;
   left: 0;
