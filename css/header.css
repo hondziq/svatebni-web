@@ -40,7 +40,7 @@ header {
   color: var(--cl-secondary);
   position: absolute;
   left: 0;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 #logo:hover {
